@@ -42,8 +42,8 @@
       <h2>Community</h2>
       <p>Stay connected:</p>
       <ul>
-        <li>Telegram: <a href="#">Coming Soon</a></li>
-        <li>Twitter: <a href="#">Coming Soon</a></li>
+        <li>Telegram: <a href="#">https://t.me/Digitalcurrencylottery</a></li>
+        <li>Twitter: <a href="#">https://x.com/zoby_zoby?t=bLi__7OkZJxlKWfKRGwDUg&s=09</a></li>
       </ul>
     </div>
     <div class="footer">
